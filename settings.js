@@ -22,27 +22,27 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281241056195','6281241056195','6281241056195'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281241056195'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281241056195' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6283816797646'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6283816797646'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6283816797646' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'GilzzOFC' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Ziro-Botz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Gilzz' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Ananda DEV' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Inc-Botz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'NdaDEV' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'tikoasep@gmail.com'
+global.youtube = 'https://youtube.com/channel/UCL_UuXsDGFLdwARCwytYFBA'
+global.ig = 'https://instagram.com/ananda.alif.rizky'
+global.mygc = '-'
+global.myweb = '-'
+global.email = 'Private :)'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'RIY' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© IncZ-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Ananda DEV' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!

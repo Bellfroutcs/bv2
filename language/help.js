@@ -428,7 +428,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* Nekel
   *≻* Bagas Prdn
 
-  ```Recode``` *By Ananda DEV*
+   *By Ananda DEV*
 
   `
 }

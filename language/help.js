@@ -427,6 +427,9 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* Sanzy
   *≻* Nekel
   *≻* Bagas Prdn
+
+  ```Recode``` *By Ananda DEV*
+
   `
 }
 
@@ -451,14 +454,16 @@ Hai kak ☺️
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 Berapapun donasi kalian akan sangat berarti 👍
 
+*>* Saweria : http://saweria.co/bellfroutcs
+
 Thanks!
 
 —————「 *SEWA | RUN BOT* 」—————
 
   *_SEWA BOT_* 
-  *≻* Sewa Bot 4k (1 minggu)
-  *≻* Sewa Bot 5k (1 bulan)
-  *≻* Sewa Bot 7k (Permanen)
+  *≻* Sewa Bot 5k (1 minggu)
+  *≻* Sewa Bot 10k (1 bulan)
+  *≻* Sewa Bot 50k (Permanen)
 
   *Minat? Langsung chat aja ya cuy 🐦*
 
@@ -952,5 +957,6 @@ exports.thanksto = () => {
   *≻* Sanzy
   *≻* Nekel
   *≻* Bagas Prdn
+
 `
 }
